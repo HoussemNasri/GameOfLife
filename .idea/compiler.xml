@@ -16,11 +16,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="untitled3" />
+        <module name="GameOfLife" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="untitled3" target="13" />
+      <module name="GameOfLife" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
